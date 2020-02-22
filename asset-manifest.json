@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/reactweb/static/css/main.78cf9865.chunk.css",
+    "main.js": "/reactweb/static/js/main.dae83baf.chunk.js",
+    "main.js.map": "/reactweb/static/js/main.dae83baf.chunk.js.map",
+    "runtime-main.js": "/reactweb/static/js/runtime-main.11caa90b.js",
+    "runtime-main.js.map": "/reactweb/static/js/runtime-main.11caa90b.js.map",
+    "static/js/2.c6b9cc5b.chunk.js": "/reactweb/static/js/2.c6b9cc5b.chunk.js",
+    "static/js/2.c6b9cc5b.chunk.js.map": "/reactweb/static/js/2.c6b9cc5b.chunk.js.map",
+    "index.html": "/reactweb/index.html",
+    "precache-manifest.cdd1bc2979a75c12ee02bcf39a6a4a77.js": "/reactweb/precache-manifest.cdd1bc2979a75c12ee02bcf39a6a4a77.js",
+    "service-worker.js": "/reactweb/service-worker.js",
+    "static/css/main.78cf9865.chunk.css.map": "/reactweb/static/css/main.78cf9865.chunk.css.map",
+    "static/js/2.c6b9cc5b.chunk.js.LICENSE.txt": "/reactweb/static/js/2.c6b9cc5b.chunk.js.LICENSE.txt",
+    "static/media/about.png": "/reactweb/static/media/about.bcd7793f.png",
+    "static/media/avatar.png": "/reactweb/static/media/avatar.faf81c8c.png",
+    "static/media/boba.png": "/reactweb/static/media/boba.17b89299.png",
+    "static/media/disney1.png": "/reactweb/static/media/disney1.c2c6860e.png",
+    "static/media/htmlweb.png": "/reactweb/static/media/htmlweb.b3973f5f.png",
+    "static/media/App.css": "/reactweb/static/media/leaves.40617aa5.jpg",
+    "static/media/logo.svg": "/reactweb/static/media/logo.5d5d9eef.svg",
+    "static/media/pethub.png": "/reactweb/static/media/pethub.81cc803f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11caa90b.js",
+    "static/js/2.c6b9cc5b.chunk.js",
+    "static/css/main.78cf9865.chunk.css",
+    "static/js/main.dae83baf.chunk.js"
+  ]
+}
