@@ -1,6 +1,6 @@
 {
   "name": "website",
-  "homepage": "https://kristinaleo.github.io/reactweb",
+  "homepage": "http://kristinaleo.github.io/reactweb",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
